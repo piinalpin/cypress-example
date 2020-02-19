@@ -1,5 +1,7 @@
 # Automation Test using Cypress
 
+This automation test is used as an example of testing applications automatically from `https://github.com/piinalpin/FE-flask-rest-api.git` making it easier for users to check whether the application is running according to business flow or not.
+
 ## Prerequisites
 Make sure you have installed Cypress on your device
 
