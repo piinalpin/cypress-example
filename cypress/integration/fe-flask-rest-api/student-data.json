@@ -1,0 +1,10 @@
+{
+	"student": {
+		"name": "Kirito",
+		"identityNumber": "2483483"
+	},
+	"editStudent": {
+		"name": "Kirigaya Kazuto",
+		"identityNumber": "8374323"
+	}
+}
